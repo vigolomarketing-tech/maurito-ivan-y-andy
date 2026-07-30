@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Espacio de trabajo mejorado"><defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#111726"/><stop offset="1" stop-color="#0b0f1a"/>
+</linearGradient>
+<linearGradient id="neon" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#2f6bff"/><stop offset="0.5" stop-color="#8b5cf6"/><stop offset="1" stop-color="#22e0a1"/>
+</linearGradient>
+<filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+<feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+</defs><rect x="0" y="0" width="800" height="600" rx="18" fill="url(#bg)"/><rect x="200" y="120" width="400" height="240" rx="12" fill="#0e1524" stroke="url(#neon)" stroke-width="3"/><rect x="220" y="140" width="360" height="200" rx="6" fill="#2f6bff" opacity="0.14"/><path d="M240 300 L320 220 L380 260 L470 170 L560 240" stroke="url(#neon)" stroke-width="4" fill="none"/><rect x="360" y="360" width="80" height="40" fill="#0e1524"/><rect x="150" y="420" width="500" height="20" rx="8" fill="#16203a"/><rect x="240" y="450" width="200" height="40" rx="8" fill="#0e1524" stroke="#8b5cf6" stroke-width="2"/><circle cx="500" cy="470" r="22" fill="#0e1524" stroke="#22e0a1" stroke-width="2"/><rect x="40" y="40" width="150" height="46" rx="23" fill="#0a0f1c" stroke="#22e0a1" stroke-width="2"/><text x="115" y="70" font-family="Space Grotesk, Arial" font-size="22" font-weight="700" fill="#22e0a1" text-anchor="middle">DESPUÉS</text></svg>

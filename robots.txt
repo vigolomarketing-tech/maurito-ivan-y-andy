@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# TEMPORAL: reemplazar por la URL pública definitiva
+Sitemap: https://vigolomarketing-tech.github.io/maurito-ivan-y-andy/sitemap.xml
